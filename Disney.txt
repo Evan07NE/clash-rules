@@ -156,5 +156,3 @@ payload:
   - '+.thisispolaris.com'
   - '+.watchdisneyfe.com'
   - '+.watchespn.com'
-  - '+.com.disney.datg.videoplatforms.android.abc'
-  - '+.com.disney.disneyplus'
